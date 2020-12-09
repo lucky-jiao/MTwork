@@ -2,6 +2,7 @@
 
 数据集 PTB 
 开发环境 Windows系统 Python3.6 tensorflow1.8.0 
+
 实现
 ptb_reader.py：处理ptb.train.txt、ptb.valid.txt、ptb.test.txt三个文件，将数据集分别转成字典的方法，
 每个单词映射到 0-9999的整数，根据批尺寸batch_size和时间步数num_steps对数据集切分，返回输入inputs和标签targets
