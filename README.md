@@ -20,4 +20,5 @@ nun_epoches=10
 Epoch: 10 Training Perplexity: 93.818 (Cost: 4.541) 
 
 Epoch: 10 Valid Perplexity: 99.273 (Cost: 4.598) 
+
 Test Perplexity: 96.182 (Cost: 4.566)
