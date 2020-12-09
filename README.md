@@ -18,7 +18,6 @@ configSettings.py：模型的配置，包括batch_size、num_steps、hiddendimen
 nun_epoches=10
 
 Epoch: 10 Training Perplexity: 93.818 (Cost: 4.541) 
-0.0% Perplexity: 113.962 (Cost: 165.755) 
-95.2% Perplexity: 99.404 (Cost: 165.343) 
+
 Epoch: 10 Valid Perplexity: 99.273 (Cost: 4.598) 
 Test Perplexity: 96.182 (Cost: 4.566)
