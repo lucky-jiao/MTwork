@@ -1,4 +1,4 @@
-基于LSTM的语言模型 
+#基于LSTM的语言模型 
 
 数据集 PTB 
 开发环境 Windows系统 Python3.6 tensorflow1.8.0 
